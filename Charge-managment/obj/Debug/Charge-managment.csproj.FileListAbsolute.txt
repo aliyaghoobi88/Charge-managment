@@ -1,0 +1,9 @@
+F:\OFFICE PROJECT\2-laptop charger\Charge-managment\Charge-managment\bin\Debug\Charge-managment.exe.config
+F:\OFFICE PROJECT\2-laptop charger\Charge-managment\Charge-managment\bin\Debug\Charge-managment.exe
+F:\OFFICE PROJECT\2-laptop charger\Charge-managment\Charge-managment\bin\Debug\Charge-managment.pdb
+F:\OFFICE PROJECT\2-laptop charger\Charge-managment\Charge-managment\obj\Debug\Charge_managment.Form1.resources
+F:\OFFICE PROJECT\2-laptop charger\Charge-managment\Charge-managment\obj\Debug\Charge_managment.Properties.Resources.resources
+F:\OFFICE PROJECT\2-laptop charger\Charge-managment\Charge-managment\obj\Debug\Charge-managment.csproj.GenerateResource.cache
+F:\OFFICE PROJECT\2-laptop charger\Charge-managment\Charge-managment\obj\Debug\Charge-managment.csproj.CoreCompileInputs.cache
+F:\OFFICE PROJECT\2-laptop charger\Charge-managment\Charge-managment\obj\Debug\Charge-managment.exe
+F:\OFFICE PROJECT\2-laptop charger\Charge-managment\Charge-managment\obj\Debug\Charge-managment.pdb
