@@ -2,6 +2,9 @@
 
 This is a Windows Form application built in C# that helps manage the charging of a laptop battery. The application monitors the battery level and provides notifications to connect or disconnect the charger based on configurable high and low setpoints.
 
+![Screen](https://github.com/aliyaghoobi88/Charge-managment/assets/4157568/ba7e6603-efc2-4856-9fed-608e14ce20dc)
+
+
 ## Features
 
 - Monitor battery level and power line status
